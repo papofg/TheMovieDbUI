@@ -34,13 +34,13 @@ react-native start
 ```
 
 ## Screenshoots
-
+### Getting Started
 ![Getting Started](https://github.com/papofg/Images4Readme/blob/master/TheMovieDbUI/Screenshot_1569751261.png)
-
+### Save API key and language
 ![Save API key and language](https://github.com/papofg/Images4Readme/blob/master/TheMovieDbUI/Screenshot_1569751376.png)
-
+### Search Movie
 ![Search Movie](https://github.com/papofg/Images4Readme/blob/master/TheMovieDbUI/Screenshot_1569751409.png)
-
+### Top Rated
 ![Top Rated](https://github.com/papofg/Images4Readme/blob/master/TheMovieDbUI/Screenshot_1569751421.png)
-
+### Movie info
 ![Movie info](https://github.com/papofg/Images4Readme/blob/master/TheMovieDbUI/Screenshot_1569751470.png)
