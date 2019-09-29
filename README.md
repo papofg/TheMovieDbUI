@@ -32,5 +32,3 @@ react-native --verbose run-android
 ```
 react-native start
 ```
-
-```
