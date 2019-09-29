@@ -11,7 +11,7 @@ React-Native Front for **themoviedb.org API (Movies)**
 
 ## Install the packages
 
-1) Go to folder project
+1) Go to project folder
 2) Execute:
 ```
 npm install
@@ -19,7 +19,7 @@ npm install
 
 ## Install app in Android emulator
 
-1) Go to folder project
+1) Go to project folder
 2) Execute:
 ```
 react-native --verbose run-android
@@ -27,7 +27,7 @@ react-native --verbose run-android
 
 ## Start app
 
-1) Go to folder project
+1) Go to project folder
 2) Execute:
 ```
 react-native start
