@@ -24,3 +24,13 @@ npm install
 ```
 react-native --verbose run-android
 ```
+
+## Start app
+
+1) Go to folder project
+2) Execute:
+```
+react-native start
+```
+
+```
